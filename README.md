@@ -1,5 +1,5 @@
 # QPALZM Dependencies Installer
-QPALZM Toolkit通用依赖安装器，可在MacOS / Linux / Windows里运行次脚本以安装所有QPALZM Toolkit的依赖。
+QPALZM Toolkit通用依赖安装器，可在MacOS / Linux / Windows里运行此脚本以安装所有QPALZM Toolkit的依赖。
 ## 包含的包（Package）
 - CustomTkinter
 - TermColor
